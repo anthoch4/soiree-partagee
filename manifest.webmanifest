@@ -1,0 +1,11 @@
+{
+  "name": "Soirée partagée",
+  "short_name": "Soirée",
+  "description": "Partage les dépenses et les remboursements de tes soirées.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f6f0",
+  "theme_color": "#1f382b",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
